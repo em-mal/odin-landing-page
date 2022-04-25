@@ -1,2 +1,3 @@
 # odin-landing-page
-image credit: https://www.pexels.com/@catscoming/
+Header image credit: https://www.pexels.com/@catscoming/
+All other images are taken/owned by me.
