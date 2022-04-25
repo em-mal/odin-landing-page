@@ -76,12 +76,50 @@ a {
     border: none;
     margin: 8px;
 }
-.main.img {
+.front {
     height: 300px;
     width: auto;
     padding: 24px;
     margin-left: 70px;
-    margin-right: 150px;
+    margin-right: 150px; 
+}
+.section2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 90px;
     
+
+}
+.info {
+    font-size: 36px;
+    font-weight: 900;
+    color: #6b705c;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.img-container {
+
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    
+}
+.res {
+    height: 150px;
+    width: 150px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: #cb997e;
+    
+}
+.img {
+    height: 200px;
+    width: 140px;
+    padding: 40px;
+    text-align: center;
+    color: #cb997e;
     
 }
