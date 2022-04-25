@@ -145,3 +145,40 @@ a {
     margin-left: 630px;
     padding: 10px;
 }
+.section4 {
+    background-color: #cb997e;
+    margin: 100px;
+    display: flex;
+    height: 150px;
+    width: 1100px;
+    border-radius: 8px;
+    align-self: center;
+}
+.action {
+    padding: 20px;
+    align-self: center;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+.join {
+    font-size: 25px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+.join2 {
+    font-size: 20px;
+    color: #ffe8d6;
+}
+.button2 {
+    background-color: #cb997e;
+    font-size: 18px;
+    font-weight: 700;
+    color: #f9faf8;
+    padding: 10px 24px;
+    border-radius: 8px;
+    border-color: #f9faf8;
+    margin: 8px;
+    border-style: solid;
+    height: 40px;
+    align-self: center;
+}
